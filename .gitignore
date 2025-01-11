@@ -2,3 +2,4 @@ wandb/
 outputs/
 
 /.venv/
+/.idea/
